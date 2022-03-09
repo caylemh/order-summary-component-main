@@ -1,0 +1,103 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+}
+
+h2, h3 {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+p{
+  margin: 0;
+  color: hsl(224, 23%, 55%);
+  line-height: 1.5;
+}
+
+
+body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1440' height='437'%3E%3Cpath fill='%23D6E1FF' fill-rule='evenodd' d='M0 349.974c218.558 116.035 460.05 116.035 724.475 0s502.933-116.035 715.525 0V0H0v349.974z'/%3E%3C/svg%3E");
+  background-color: hsl(225, 100%, 94%);
+  background-size:contain;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 16px;
+}
+
+img{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+table{
+  width: 100%;
+}
+
+a{
+  font-weight: 700;
+}
+
+.btn{
+  background-color: hsl(245, 75%, 52%);
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+  color: hsl(225, 100%, 98%);
+  box-shadow: 0 15px 30px hsla(224, 23%, 55%, 0.6);
+  border-radius: 13px;
+  margin: 1rem 0;
+}
+
+.btn:hover {
+  background-color: hsl(224, 23%, 55%);
+}
+
+.cncl{
+  margin-top: 2rem;
+  font-weight: 700;
+  font-stretch: semi-expanded;
+}
+
+.cncl:hover {
+  color: hsl(223, 47%, 23%);
+  cursor: pointer;
+}
+
+.chng:hover{
+  font-weight: 700;
+  color: hsl(224, 23%, 55%);
+  text-decoration: none;
+}
+
+.container {
+  padding: 6rem 2.5rem;
+  text-align: center;
+}
+
+.container__order{
+  background-color: #fff;
+  width: 70%;
+  max-width: 450px;
+  min-width: 450px;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 0 15px 40px hsla(224, 23%, 55%, 0.2);
+}
+
+.order {
+  padding: 1rem 3rem 4rem 3rem;
+}
+
+.order__img{
+  border-radius: 20px;
+}
+
+.order__plan{
+  width: 100%;
+  display: inline-block;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 13px;
+  padding: 1.3rem 0.5rem;
+  margin: 1rem 0;
+}
