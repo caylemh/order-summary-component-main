@@ -3,7 +3,13 @@
   transition: all 0.2s ease-in-out;
 }
 
-h2, h3 {
+h1 {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+  font-size: 1.7rem;
+}
+
+h3{
   color: hsl(223, 47%, 23%);
   font-weight: 900;
 }
