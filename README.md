@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-using-css-73hHpsRbY](https://www.frontendmentor.io/solutions/order-summary-card-using-css-73hHpsRbY)
 - Live Site URL: [https://caylemh.github.io/order-summary-component-main/](https://caylemh.github.io/order-summary-component-main/)
 
 ### Built with
