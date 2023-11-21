@@ -37,12 +37,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Desktop-first workflow
+- Mobile-first workflow
 
 ### What I learned
 
 I'm continuing to learn more about layouts and CSS centering & styles.
+
+V2 - Going to improve my techniques in HTML and CSS.
 
 ### Continued development
 
